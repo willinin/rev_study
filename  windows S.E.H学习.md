@@ -1,4 +1,4 @@
-#  windows S.E.H学习
+# windows S.E.H学习
 
 #### 1. 常见的异常
 
