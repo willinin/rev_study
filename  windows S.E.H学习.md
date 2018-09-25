@@ -1,4 +1,12 @@
+<<<<<<< Updated upstream
 # windows S.E.H学习
+=======
+<<<<<<< HEAD
+# windows S.E.H学习
+=======
+# windows S.E.H学习
+>>>>>>> origin/master
+>>>>>>> Stashed changes
 
 #### 1. 常见的异常
 
